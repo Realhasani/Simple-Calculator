@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.15
+Name: Calculator
+Formal-Name: Simple Calculator
+App-ID: com.Calculator.Calculator
+Version: 0.0.1
+Home-page: https://Calculator.com/Calculator
+Download-URL: https://Calculator.com/Calculator
+Author: Amir Hosein Hasani
+Author-email: amirclash138266@gmail.com
+Summary: It's my first application with Beeware!
